@@ -3,7 +3,6 @@
   "name": "YouTube Ad Skipper",
   "description": "Automatically skip YouTube ads when possible.",
   "version": "0.1.0",
-  "permissions": ["storage"],
   "host_permissions": [
     "https://www.youtube.com/*",
     "https://m.youtube.com/*"
